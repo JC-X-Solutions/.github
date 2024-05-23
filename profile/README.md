@@ -72,8 +72,7 @@ To discuss your project requirements and learn more about how JC&X Solutions can
 For general inquiries, please reach out to us at:
 
 - Email: info@jcnxsolutions.com
-- Phone: +1 (239) 878-7268
 
 ## License
 
-Copyright © 2023 JC&X Solutions. All rights reserved.
+Copyright © 2024 JC&X Solutions. All rights reserved.
