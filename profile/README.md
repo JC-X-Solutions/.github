@@ -63,16 +63,10 @@ JC&X Solutions is composed of a talented and diverse team of software engineers,
 
 To discuss your project requirements and learn more about how JC&X Solutions can help your business, please follow these steps:
 
-1. Visit our [website](https://www.jcnxsolutions.com) and fill out the contact form.
+1. Reach out ot us at info@jcnxsolutions.com.
 2. Schedule an initial consultation with one of our experts.
 3. Collaborate with our team to create a custom proposal tailored to your needs.
 
-## Contact Us
-
-For general inquiries, please reach out to us at:
-
-- Email: info@jcnxsolutions.com
-
 ## License
 
-Copyright © 2024 JC&X Solutions. All rights reserved.
+Copyright © 2025 JC&X Solutions. All rights reserved.
