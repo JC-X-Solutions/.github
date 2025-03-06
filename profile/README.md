@@ -3,6 +3,7 @@ Welcome to JC&X Solutions, a leading software service company providing top-notc
 
 
 - [JC\&X Solutions](#jcx-solutions)
+  - [Our Plans](#our-plans)   
   - [Services](#services)
     - [Software Development](#software-development)
     - [IT Consulting](#it-consulting)
@@ -19,9 +20,14 @@ Welcome to JC&X Solutions, a leading software service company providing top-notc
   - [How to Get Started](#how-to-get-started)
   - [Contact Us](#contact-us)
   - [License](#license)
+ 
+## Our Plans 
+
+Check our plans [here](https://github.com/JC-X-Solutions/plans/tree/main)
 
 ## Services
 At JC&X Solutions, we offer a wide range of services to cater to your specific needs. Our services include:
+
 ### Software Development
 Our team of skilled developers can create custom software tailored to your business requirements. Whether you need a mobile app, web application, or desktop software, we have the expertise to bring your vision to life.
 
