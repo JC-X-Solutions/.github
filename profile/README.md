@@ -3,7 +3,7 @@ Welcome to JC&X Solutions, a leading software service company providing top-notc
 
 
 - [JC\&X Solutions](#jcx-solutions)
-  - [Our Plans](#our-plans)   
+  - [FREE Website and Plans](#our-plans)   
   - [Services](#services)
     - [Software Development](#software-development)
     - [IT Consulting](#it-consulting)
@@ -21,7 +21,7 @@ Welcome to JC&X Solutions, a leading software service company providing top-notc
   - [Contact Us](#contact-us)
   - [License](#license)
  
-## Our Plans 
+## FREE Website and Plans
 
 Your website is FREE!!! We only charge for maintenance.
 Check our plans [here](https://github.com/JC-X-Solutions/plans/tree/main)
