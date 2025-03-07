@@ -23,6 +23,7 @@ Welcome to JC&X Solutions, a leading software service company providing top-notc
  
 ## Our Plans 
 
+Your website is FREE!!! We only charge for maintenance.
 Check our plans [here](https://github.com/JC-X-Solutions/plans/tree/main)
 
 ## Services
